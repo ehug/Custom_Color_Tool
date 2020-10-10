@@ -9,3 +9,5 @@ Instructions:
   from Custom_Color_Tool import start_up_maya
 ```
   within the Maya Script Editor.
+
+[It should look like the following:](./images/tool_example.png)
