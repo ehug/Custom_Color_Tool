@@ -10,4 +10,5 @@ Instructions:
 ```
   within the Maya Script Editor.
 
-![It should look like the following:](./images/tool_example.PNG)
+It should look like the following:
+![Example of Maya Color Tool](./images/tool_example.PNG)
