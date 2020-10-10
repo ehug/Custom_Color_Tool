@@ -10,4 +10,4 @@ Instructions:
 ```
   within the Maya Script Editor.
 
-![It should look like the following:](../../images/tool_example.png)
+![It should look like the following:](./images/tool_example.PNG)
